@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Install Vagrant and VirtualBox
 2. Clone the [fullstack-nanodegree-vm](https://github.com/udacity/fullstack-nanodegree-vm)
 3. Launch the Vagrant VM (vagrant up)
+4. You would need to have developer accounts from Google and Facebook. Create applications in both the accounts and use the app specific keys in the client_secrets.json (Google) and fb_client_secrets.json (FB).
 ```
 
 ### Installing
