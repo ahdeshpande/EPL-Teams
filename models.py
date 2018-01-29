@@ -1,6 +1,5 @@
 import os
 import sys
-import json
 
 from sqlalchemy import Column, ForeignKey, Integer, String, Boolean, Sequence
 from sqlalchemy.ext.declarative import declarative_base
@@ -70,28 +69,3 @@ engine = create_engine('sqlite:///epldata.db')
 
 
 Base.metadata.create_all(engine)
-
-
-# Adding all the players to the database
-Base.metadata.bind = engine
-DBSession = sessionmaker(bind=engine)
-session = DBSession()
-
-# Reading from the JSON file
-try:
-    teams = json.load(open('epldata_teams.json'))
-    for team in teams:
-        club_name = team['club'].replace("+", " ")
-        club = Club(id=team['club_id'], name=club_name, is_big_club=bool(team['big_club']))
-        session.add(club)
-        session.commit() 
-    print("All clubs added!")
-
-    players = json.load(open('epldata_players.json'))
-    for player in players:
-        persona = Player(club_id=player['club_id'], name=unicode(player['name']), age=player['age'], position=player['position'], position_category=player['position_cat'], market_value=player['market_value'], nationality=player['nationality'])
-        session.add(persona)
-        session.commit()
-    print("All players added!")
-except:
-    print("Error reading JSON file!")
