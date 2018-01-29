@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel=stylesheet
+	href="{{ url_for('static', filename='style.css') }}">
+	<script
+	src="https://code.jquery.com/jquery-3.2.1.min.js"
+	integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+	crossorigin="anonymous"></script>
+	<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<title>
+		Add New Player
+	</title>
+</head>
+
+
+<body>
+	<div class="container">
+		{% with messages = get_flashed_messages() %}
+		{% if messages %}
+		<div class="alert alert-info alert-dismissible" role="alert">
+			<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			</button>
+			{{ messages }}
+		</div>
+		{% endif %}
+		{% endwith %}
+
+		<div class="row jumbotron title">
+			<h1>New Player </h1>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-8 well well-lg">
+				<form action="{{ url_for('newPlayer',club_id = club_id)}}" method = 'post'>
+
+					<!-- Name -->
+					<div class="form-group">
+						<label for="name">Name:</label>
+						<input type ='text' size='30' name='name' id="name" class="form-control">
+					</div>
+
+					<!-- Club -->
+					<div class="form-group">
+						<label for="club_name">Club:</label>
+						<select class="form-control" id="club_name">
+							<option style="display:none">
+							{% for club in clubs %}
+							<option>{{club.name}}</option>
+							{% endfor %}
+						</select>
+					</div>
+
+					<!-- Age -->
+					<div class="form-group">
+						<label for="age">Age:</label>
+						<input type = 'number' size = '8' name='price' id="age" class="form-control">
+					</div>
+
+					<!-- Position -->
+					<div class="form-group">
+						<label for="position">Positon:</label>
+						<select class="form-control" id="position">
+							<option style="display:none">
+							{% for position in positions|sort(attribute='position') %}
+							<option>{{position[0]}}</option>
+							{% endfor %}
+						</select>
+					</div>
+
+					<!-- Position Category -->
+					<div class="form-group">
+						<label for="position_category">Positon Category:</label>
+						<select class="form-control" id="position_category">
+							<option style="display:none">
+							{% for position_category in position_categories %}
+							<option>{{position_category}}</option>
+							{% endfor %}
+						</select>
+					</div>
+
+					<!-- Market Value -->
+					<div class="form-group">
+						<label for="market_value">Market Value:</label>
+						<input type = 'number' size = '8' name='price' id="market_value" class="form-control">
+					</div>
+
+					<!-- Nationality -->
+					<div class="form-group">
+						<label for="nationality">Nationality:</label>
+						<select class="form-control" id="nationality">
+							<option style="display:none">
+							{% for country in countries %}
+							<option>{{country}}</option>
+							{% endfor %}
+						</select>
+					</div>
+						
+					<input type='submit' value='Save' class="btn btn-success btn-custom">
+					<a class="btn btn-default btn-custom"
+					href="{{url_for('showClub', club_id=club_id)}}">
+						Cancel
+					</a>
+
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

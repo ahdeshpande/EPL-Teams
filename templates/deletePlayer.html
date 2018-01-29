@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel=stylesheet
+	href="{{ url_for('static', filename='style.css') }}">
+	<title>
+		Delete Player
+	</title>
+</head>
+
+<body>
+	<div class="container">
+		
+		<div class="row jumbotron title">
+			<h1>Delete Player</h1>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-8 well well-lg">
+
+				<form action="{{ url_for('deletePlayer', club_id = club_id, player_id=player_id)}}" method = 'post'>
+
+					<h3>Are you sure you want to delete {{ Player.name }}?</h3>
+
+					<input type='submit' class="btn btn-danger btn-custom" value="Delete">
+
+					<a class="btn btn-default btn-custom" href="{{url_for('showClub', club_id=club_id)}}">
+						Cancel
+					</a>
+					
+				</form>
+
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

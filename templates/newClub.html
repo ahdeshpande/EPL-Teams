@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel=stylesheet
+	href="{{ url_for('static', filename='style.css') }}">
+	<script
+	src="https://code.jquery.com/jquery-3.2.1.min.js"
+	integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+	crossorigin="anonymous"></script>
+	<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<title>
+		Add New Club
+	</title>
+</head>
+
+<body>
+	<div class="container">
+		
+		<div class="row jumbotron title">
+			<h1>New Club</h1>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-8 well well-lg">
+				<form action="{{ url_for('newClub')}}" method = 'post'>
+
+					<div class="form-group">
+						<label for="name">Name of the Club:</label>
+						<input class="form-control" type="text" id="name" name="name">
+					</div>
+
+					<input type="submit" value="Add" class="btn btn-success btn-custom">
+					<a class="btn btn-default btn-custom"
+					href="{{url_for('showClubs')}}">
+						Cancel
+					</a>
+
+				</form>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

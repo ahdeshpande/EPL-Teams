@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel=stylesheet
+	href="{{ url_for('static', filename='style.css') }}">
+	<script
+	src="https://code.jquery.com/jquery-3.2.1.min.js"
+	integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+	crossorigin="anonymous"></script>
+	<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<title>
+		{{ club.name }}
+	</title>
+</head>
+
+
+<body>
+
+	<div class="container">
+
+		{% with messages = get_flashed_messages() %}
+		{% if messages %}
+		<div class="alert alert-info alert-dismissible" role="alert">
+			<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			</button>
+			{{ messages }}
+		</div>
+		{% endif %}
+		{% endwith %}
+
+		<div class="row">
+			<a class="col-xs-3 btn btn-link"
+				href="{{url_for('showClubs')}}">
+				<label><span class="glyphicon glyphicon-home">&#32;</span>
+					All Clubs
+				</label>
+			</a>
+			{%if 'username' not in session %}
+			<a href="{{url_for('showLogin')}}" class="col-xs-3 col-xs-offset-6 btn btn-link">
+			<label><span class="glyphicon glyphicon-user">&nbsp;</span>
+					Click Here to Log in
+				</label>
+			</a>
+			{% else %}
+			<a href="{{url_for('disconnect')}}" class="col-xs-3 col-xs-offset-6 btn btn-link">
+				<label><span class="glyphicon glyphicon-user">&nbsp;</span>
+					Disconnect
+				</label>
+			</a>
+			{% endif %}
+		</div>
+		<div class="row jumbotron title">
+			<div class="col-xs-10">
+				<label class="header">{{ club.name }}</label>
+			</div>
+			<div class="col-xs-2">
+				<img src="{{ url_for('static', filename='img/' + club.name + '.png') }}" alt="{{ club.name }}" class="club-badge">
+			</div>
+		</div>
+
+		{% for player in players|sort(attribute='position_category') %}
+			<div class="row">
+				
+				<div class="col-xs-12 well well-lg player-name">
+					<div class="row">
+						<div class="col-xs-2">
+							<img src="{{ url_for('static', filename='img/player.png') }}" alt="{{ club.name }}" class="club-badge">
+						</div>
+						<div class="col-xs-8">
+							<div class="row">
+								<label><h3>{{ player.name }}</h3>
+									<span class="text-muted">Age: {{ player.age }}</span><br>
+									<span class="text-primary">{{ player.nationality }}</span>
+								</label>
+							</div>
+						</div>
+						<div class="col-xs-2">
+							<label><h3>{{ player.position }}</h3></label>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		{% endfor %}
+
+	</div>
+
+</body>
+
+
+
+
+</html>

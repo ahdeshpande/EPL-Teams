@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel=stylesheet
+          href="{{ url_for('static', filename='style.css') }}">
+    <script
+            src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous"></script>
+    <script type="text/javascript"
+            src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//apis.google.com/js/platform.js?onload=start"></script>
+    <title>
+        Login
+    </title>
+</head>
+
+
+<body>
+<div class="container">
+    <div class="row">
+        <a class="col-xs-3 btn btn-link"
+           href="{{ url_for('showClubs') }}">
+            <label><span class="glyphicon glyphicon-home">&#32;</span>
+                All Clubs
+            </label>
+        </a>
+        {% if 'username' not in session %}
+            <a href="{{ url_for('showLogin') }}"
+               class="col-xs-3 col-xs-offset-6 btn btn-link">
+                <label><span class="glyphicon glyphicon-user">&nbsp;</span>
+                    Click Here to Log in
+                </label>
+            </a>
+        {% else %}
+            <a href="{{ url_for('disconnect') }}"
+               class="col-xs-3 col-xs-offset-6 btn btn-link">
+                <label><span class="glyphicon glyphicon-user">&nbsp;</span>
+                    Disconnect
+                </label>
+            </a>
+        {% endif %}
+    </div>
+
+    <div class="row jumbotron title">
+        <div class="col-xs-10">
+            <label class="header">EPL Club List</label>
+        </div>
+    </div>
+
+    <div class="col-xs-6 col-xs-offset-3 well well-lg oauth-providers">
+        <h4>Login using either of the following OAuth providers</h4>
+
+        <!-- GOOGLE PLUS SIGN IN-->
+
+        <div class="row well well-lg">
+            <div class="col-xs-6">
+                <div id="signinButton">
+                      <span class="g-signin"
+                            data-scope="openid email"
+                            data-clientid="981435648732-r1tojdq2mg2gbdh23000819dejl2ejqr.apps.googleusercontent.com"
+                            data-redirecturi="postmessage"
+                            data-accesstype="offline"
+                            data-cookiepolicy="single_host_origin"
+                            data-callback="signInCallback"
+                            data-approvalprompt="force">
+                    </span>
+                </div>
+            </div>
+
+            <!--END GOOGLE PLUS SIGN IN -->
+
+            <!--FACEBOOK SIGN IN -->
+
+            <div class="col-xs-6">
+                <button>
+                    <fb:login-button scope="public_profile,email"
+                                     onlogin="sendTokenToServer();">
+                        <a href='javascript:sendTokenToServer()'>Login</a>
+                    </fb:login-button>
+                </button>
+                <!--END FACEBOOK SIGN IN -->
+            </div>
+        </div>
+    </div>
+    <div id="result" class="text-center"></div>
+</div>
+</body>
+<script>
+    function signInCallback(authResult) {
+        if (authResult['code']) {
+
+            // Hide the sign-in button now that the user is authorized
+            $('#signinButton').attr('style', 'display: none');
+
+            // Send the one-time-use code to the server, if the server responds, write a 'login successful' message to the web page and then redirect back to the main restaurants page
+            $.ajax({
+                type: 'POST',
+                url: '/gconnect?state={{STATE}}',
+                processData: false,
+                data: authResult['code'],
+                contentType: 'application/octet-stream; charset=utf-8',
+                success: function (result) {
+                    // Handle or verify the server response if necessary.
+                    if (result) {
+                        $('.oauth-providers').hide()
+                        $('#result').html('<h2>Login Successful!</h2></br>' + result + '</br><h3>Redirecting...</h3>')
+                        setTimeout(function () {
+                            window.location.href = "/";
+                        }, 4000);
+
+
+                    } else if (authResult['error']) {
+
+                        console.log('There was an error: ' + authResult['error']);
+                    } else {
+                        $('#result').html('Failed to make a server-side call. Check your configuration and console.');
+                    }
+
+                }
+
+            });
+        }
+    }
+</script>
+
+
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '519252901779010',
+            cookie: true,  // enable cookies to allow the server to access
+                           // the session
+            xfbml: true,  // parse social plugins on this page
+            version: 'v2.2' // use version 2.2
+        });
+
+    };
+
+    // Load the SDK asynchronously
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+    // Here we run a very simple test of the Graph API after login is
+    // successful.  See statusChangeCallback() for when this call is made.
+    function sendTokenToServer() {
+        var access_token = FB.getAuthResponse()['accessToken'];
+        console.log(access_token)
+        console.log('Welcome!  Fetching your information.... ');
+        FB.api('/me', function (response) {
+            console.log('Successful login for: ' + response.name);
+            $.ajax({
+                type: 'POST',
+                url: '/fbconnect?state={{STATE}}',
+                processData: false,
+                data: access_token,
+                contentType: 'application/octet-stream; charset=utf-8',
+                success: function (result) {
+                    // Handle or verify the server response if necessary.
+                    if (result) {
+                        $('.oauth-providers').hide()
+                        $('#result').html('<h2>Login Successful!</h2></br>' + result + '</br><h3>Redirecting...</h3>')
+                        setTimeout(function () {
+                            window.location.href = "/";
+                        }, 4000);
+
+
+                    } else {
+                        $('#result').html('Failed to make a server-side call. Check your configuration and console.');
+                    }
+
+                }
+
+            });
+
+
+        });
+    }
+</script>
+
+</html>

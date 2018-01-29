@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel=stylesheet
+	href="{{ url_for('static', filename='style.css') }}">
+	<script
+	src="https://code.jquery.com/jquery-3.2.1.min.js"
+	integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+	crossorigin="anonymous"></script>
+	<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<title>
+		Edit Club
+	</title>
+</head>
+
+<body>
+	<div class="container">
+
+		{% with messages = get_flashed_messages() %}
+		{% if messages %}
+		<div class="alert alert-info alert-dismissible" role="alert">
+			<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+				<span aria-hidden="true">&times;</span>
+			</button>
+			{{ messages }}
+		</div>
+		{% endif %}
+		{% endwith %}
+
+		<div class="row jumbotron title">
+			<h1>Edit Club</h1>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-8 well well-lg">
+				<form action="{{ url_for('editClub', club_id=club_id)}}" method = 'post'>
+
+					<div class="form-group">
+						<label for="name">Edit name of {{ Club.name }}:</label>
+						<input class="form-control" type="text" id="name" name="name" placeholder="{{Club.name}}">
+					</div>
+
+					<input type="submit" value="Save" class="btn btn-success btn-custom">
+					<a class="btn btn-default btn-custom"
+					href="{{url_for('showClubs')}}">
+						Cancel
+					</a>
+
+				</form>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
