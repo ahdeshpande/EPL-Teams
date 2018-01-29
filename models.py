@@ -1,9 +1,6 @@
-import os
-import sys
-
 from sqlalchemy import Column, ForeignKey, Integer, String, Boolean, Sequence
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import relationship, sessionmaker
+from sqlalchemy.orm import relationship
 from sqlalchemy import create_engine
 
 Base = declarative_base()
@@ -27,7 +24,6 @@ class Club(Base):
 
     @property
     def serialize(self):
-
         return {
             'name': self.name,
             'id': self.id,
@@ -48,12 +44,10 @@ class Player(Base):
     market_value = Column(Integer)
     nationality = Column(String(60))
 
-
-# We added this serialize function to be able to send JSON objects in a
-# serializable format
+    # We added this serialize function to be able to send JSON objects in a
+    # serializable format
     @property
     def serialize(self):
-
         return {
             'name': self.name,
             'id': self.id,
@@ -65,7 +59,7 @@ class Player(Base):
             'nationality': self.nationality,
         }
 
-engine = create_engine('sqlite:///epldata.db')
 
+engine = create_engine('sqlite:///epldata.db')
 
 Base.metadata.create_all(engine)
