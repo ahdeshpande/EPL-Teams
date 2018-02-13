@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Alexis Sanchez",
     "club": "Arsenal",
     "age": 28,
@@ -16,9 +17,11 @@
     "age_cat": 4,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 2,
     "name": "Mesut Ozil",
     "club": "Arsenal",
     "age": 28,
@@ -35,9 +38,11 @@
     "age_cat": 4,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 3,
     "name": "Petr Cech",
     "club": "Arsenal",
     "age": 35,
@@ -54,9 +59,11 @@
     "age_cat": 6,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 4,
     "name": "Theo Walcott",
     "club": "Arsenal",
     "age": 28,
@@ -73,9 +80,11 @@
     "age_cat": 4,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 5,
     "name": "Laurent Koscielny",
     "club": "Arsenal",
     "age": 31,
@@ -92,9 +101,11 @@
     "age_cat": 4,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 6,
     "name": "Hector Bellerin",
     "club": "Arsenal",
     "age": 22,
@@ -111,9 +122,11 @@
     "age_cat": 2,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 7,
     "name": "Olivier Giroud",
     "club": "Arsenal",
     "age": 30,
@@ -130,9 +143,11 @@
     "age_cat": 4,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 8,
     "name": "Nacho Monreal",
     "club": "Arsenal",
     "age": 31,
@@ -149,9 +164,11 @@
     "age_cat": 4,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 9,
     "name": "Shkodran Mustafi",
     "club": "Arsenal",
     "age": 25,
@@ -168,9 +185,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 10,
     "name": "Alex Iwobi",
     "club": "Arsenal",
     "age": 21,
@@ -187,9 +206,11 @@
     "age_cat": 1,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 11,
     "name": "Granit Xhaka",
     "club": "Arsenal",
     "age": 24,
@@ -206,9 +227,11 @@
     "age_cat": 2,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 12,
     "name": "Alex Oxlade-Chamberlain",
     "club": "Arsenal",
     "age": 23,
@@ -225,9 +248,11 @@
     "age_cat": 2,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 13,
     "name": "Jack Wilshere",
     "club": "Arsenal",
     "age": 25,
@@ -244,9 +269,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 14,
     "name": "Aaron Ramsey",
     "club": "Arsenal",
     "age": 26,
@@ -263,9 +290,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 15,
     "name": "Francis Coquelin",
     "club": "Arsenal",
     "age": 26,
@@ -282,9 +311,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 16,
     "name": "Gabriel Paulista",
     "club": "Arsenal",
     "age": 26,
@@ -301,9 +332,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 17,
     "name": "Kieran Gibbs",
     "club": "Arsenal",
     "age": 27,
@@ -320,9 +353,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 18,
     "name": "Santi Cazorla",
     "club": "Arsenal",
     "age": 32,
@@ -339,9 +374,11 @@
     "age_cat": 5,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 19,
     "name": "Danny Welbeck",
     "club": "Arsenal",
     "age": 26,
@@ -358,9 +395,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 20,
     "name": "Rob Holding",
     "club": "Arsenal",
     "age": 21,
@@ -377,9 +416,11 @@
     "age_cat": 1,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 21,
     "name": "Mohamed Elneny",
     "club": "Arsenal",
     "age": 25,
@@ -396,9 +437,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 22,
     "name": "Lucas Perez",
     "club": "Arsenal",
     "age": 28,
@@ -415,9 +458,11 @@
     "age_cat": 4,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 23,
     "name": "Emiliano Martinez",
     "club": "Arsenal",
     "age": 24,
@@ -434,9 +479,11 @@
     "age_cat": 2,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 24,
     "name": "David Ospina",
     "club": "Arsenal",
     "age": 28,
@@ -453,9 +500,11 @@
     "age_cat": 4,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 25,
     "name": "Carl Jenkinson",
     "club": "Arsenal",
     "age": 25,
@@ -472,9 +521,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 26,
     "name": "Per Mertesacker",
     "club": "Arsenal",
     "age": 32,
@@ -491,9 +542,11 @@
     "age_cat": 5,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 27,
     "name": "Sead Kolasinac",
     "club": "Arsenal",
     "age": 24,
@@ -510,9 +563,11 @@
     "age_cat": 2,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 28,
     "name": "Alexandre Lacazette",
     "club": "Arsenal",
     "age": 26,
@@ -529,9 +584,11 @@
     "age_cat": 3,
     "club_id": 1,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 29,
     "name": "Joshua King",
     "club": "Bournemouth",
     "age": 25,
@@ -548,9 +605,11 @@
     "age_cat": 3,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 30,
     "name": "Jermain Defoe",
     "club": "Bournemouth",
     "age": 34,
@@ -567,9 +626,11 @@
     "age_cat": 6,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 31,
     "name": "Charlie Daniels",
     "club": "Bournemouth",
     "age": 30,
@@ -586,9 +647,11 @@
     "age_cat": 4,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 32,
     "name": "Artur Boruc",
     "club": "Bournemouth",
     "age": 37,
@@ -605,9 +668,11 @@
     "age_cat": 6,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 33,
     "name": "Steve Cook",
     "club": "Bournemouth",
     "age": 26,
@@ -624,9 +689,11 @@
     "age_cat": 3,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 34,
     "name": "Junior Stanislas",
     "club": "Bournemouth",
     "age": 27,
@@ -643,9 +710,11 @@
     "age_cat": 3,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 35,
     "name": "Adam Smith",
     "club": "Bournemouth",
     "age": 26,
@@ -662,9 +731,11 @@
     "age_cat": 3,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 36,
     "name": "Ryan Fraser",
     "club": "Bournemouth",
     "age": 23,
@@ -681,9 +752,11 @@
     "age_cat": 2,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 37,
     "name": "Simon Francis",
     "club": "Bournemouth",
     "age": 32,
@@ -700,9 +773,11 @@
     "age_cat": 5,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 38,
     "name": "Benik Afobe",
     "club": "Bournemouth",
     "age": 24,
@@ -719,9 +794,11 @@
     "age_cat": 2,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 39,
     "name": "Harry Arter",
     "club": "Bournemouth",
     "age": 27,
@@ -738,9 +815,11 @@
     "age_cat": 3,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 40,
     "name": "Marc Pugh",
     "club": "Bournemouth",
     "age": 30,
@@ -757,9 +836,11 @@
     "age_cat": 4,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 41,
     "name": "Callum Wilson",
     "club": "Bournemouth",
     "age": 25,
@@ -776,9 +857,11 @@
     "age_cat": 3,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 42,
     "name": "Nathan Ake",
     "club": "Bournemouth",
     "age": 22,
@@ -795,9 +878,11 @@
     "age_cat": 2,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 43,
     "name": "Dan Gosling",
     "club": "Bournemouth",
     "age": 27,
@@ -814,9 +899,11 @@
     "age_cat": 3,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 44,
     "name": "Andrew Surman",
     "club": "Bournemouth",
     "age": 30,
@@ -833,9 +920,11 @@
     "age_cat": 4,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 45,
     "name": "Jordon Ibe",
     "club": "Bournemouth",
     "age": 21,
@@ -852,9 +941,11 @@
     "age_cat": 1,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 46,
     "name": "Lewis Cook",
     "club": "Bournemouth",
     "age": 20,
@@ -871,9 +962,11 @@
     "age_cat": 1,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 47,
     "name": "Lys Mousset",
     "club": "Bournemouth",
     "age": 21,
@@ -890,9 +983,11 @@
     "age_cat": 1,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 48,
     "name": "Adam Federici",
     "club": "Bournemouth",
     "age": 32,
@@ -909,9 +1004,11 @@
     "age_cat": 5,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 49,
     "name": "Max Gradel",
     "club": "Bournemouth",
     "age": 29,
@@ -928,9 +1025,11 @@
     "age_cat": 4,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 50,
     "name": "Tyrone Mings",
     "club": "Bournemouth",
     "age": 24,
@@ -947,9 +1046,11 @@
     "age_cat": 2,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 51,
     "name": "Brad Smith",
     "club": "Bournemouth",
     "age": 23,
@@ -966,9 +1067,11 @@
     "age_cat": 2,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 52,
     "name": "Asmir Begovic",
     "club": "Bournemouth",
     "age": 30,
@@ -985,9 +1088,11 @@
     "age_cat": 4,
     "club_id": 2,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 53,
     "name": "Niki Maenpaa",
     "club": "Brighton+and+Hove",
     "age": 32,
@@ -1004,9 +1109,11 @@
     "age_cat": 5,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 54,
     "name": "Mathew Ryan",
     "club": "Brighton+and+Hove",
     "age": 25,
@@ -1023,9 +1130,11 @@
     "age_cat": 3,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 55,
     "name": "Lewis Dunk",
     "club": "Brighton+and+Hove",
     "age": 25,
@@ -1042,9 +1151,11 @@
     "age_cat": 3,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 56,
     "name": "Shane Duffy",
     "club": "Brighton+and+Hove",
     "age": 25,
@@ -1061,9 +1172,11 @@
     "age_cat": 3,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 57,
     "name": "Uwe Hunemeier",
     "club": "Brighton+and+Hove",
     "age": 31,
@@ -1080,9 +1193,11 @@
     "age_cat": 4,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 58,
     "name": "Bruno",
     "club": "Brighton+and+Hove",
     "age": 36,
@@ -1099,9 +1214,11 @@
     "age_cat": 6,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 59,
     "name": "Gaetan Bong",
     "club": "Brighton+and+Hove",
     "age": 29,
@@ -1118,9 +1235,11 @@
     "age_cat": 4,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 60,
     "name": "Liam Rosenior",
     "club": "Brighton+and+Hove",
     "age": 33,
@@ -1137,9 +1256,11 @@
     "age_cat": 5,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 61,
     "name": "Connor Goldson",
     "club": "Brighton+and+Hove",
     "age": 24,
@@ -1156,9 +1277,11 @@
     "age_cat": 2,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 62,
     "name": "Markus Suttner",
     "club": "Brighton+and+Hove",
     "age": 30,
@@ -1175,9 +1298,11 @@
     "age_cat": 4,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 63,
     "name": "Anthony Knockaert",
     "club": "Brighton+and+Hove",
     "age": 25,
@@ -1194,9 +1319,11 @@
     "age_cat": 3,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 64,
     "name": "Dale Stephens",
     "club": "Brighton+and+Hove",
     "age": 27,
@@ -1213,9 +1340,11 @@
     "age_cat": 3,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 65,
     "name": "Beram Kayal",
     "club": "Brighton+and+Hove",
     "age": 29,
@@ -1232,9 +1361,11 @@
     "age_cat": 4,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 66,
     "name": "Steve Sidwell",
     "club": "Brighton+and+Hove",
     "age": 34,
@@ -1251,9 +1382,11 @@
     "age_cat": 6,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 67,
     "name": "Solly March",
     "club": "Brighton+and+Hove",
     "age": 23,
@@ -1270,9 +1403,11 @@
     "age_cat": 2,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 68,
     "name": "Jiri Skalak",
     "club": "Brighton+and+Hove",
     "age": 25,
@@ -1289,9 +1424,11 @@
     "age_cat": 3,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 69,
     "name": "Oliver Norwood",
     "club": "Brighton+and+Hove",
     "age": 26,
@@ -1308,9 +1445,11 @@
     "age_cat": 3,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 70,
     "name": "Jamie Murphy",
     "club": "Brighton+and+Hove",
     "age": 27,
@@ -1327,9 +1466,11 @@
     "age_cat": 3,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 71,
     "name": "Pascal Gross",
     "club": "Brighton+and+Hove",
     "age": 26,
@@ -1346,9 +1487,11 @@
     "age_cat": 3,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 72,
     "name": "Glenn Murray",
     "club": "Brighton+and+Hove",
     "age": 33,
@@ -1365,9 +1508,11 @@
     "age_cat": 5,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 73,
     "name": "Tomer Hemed",
     "club": "Brighton+and+Hove",
     "age": 30,
@@ -1384,9 +1529,11 @@
     "age_cat": 4,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 74,
     "name": "Sam Baldock",
     "club": "Brighton+and+Hove",
     "age": 28,
@@ -1403,9 +1550,11 @@
     "age_cat": 4,
     "club_id": 3,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 75,
     "name": "Tom Heaton",
     "club": "Burnley",
     "age": 31,
@@ -1422,9 +1571,11 @@
     "age_cat": 4,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 76,
     "name": "Sam Vokes",
     "club": "Burnley",
     "age": 27,
@@ -1441,9 +1592,11 @@
     "age_cat": 3,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 77,
     "name": "Andre Gray",
     "club": "Burnley",
     "age": 26,
@@ -1460,9 +1613,11 @@
     "age_cat": 3,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 78,
     "name": "Ben Mee",
     "club": "Burnley",
     "age": 27,
@@ -1479,9 +1634,11 @@
     "age_cat": 3,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 79,
     "name": "Stephen Ward",
     "club": "Burnley",
     "age": 31,
@@ -1498,9 +1655,11 @@
     "age_cat": 4,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 80,
     "name": "Matthew Lowton",
     "club": "Burnley",
     "age": 28,
@@ -1517,9 +1676,11 @@
     "age_cat": 4,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 81,
     "name": "Ashley Barnes",
     "club": "Burnley",
     "age": 27,
@@ -1536,9 +1697,11 @@
     "age_cat": 3,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 82,
     "name": "Jeff Hendrick",
     "club": "Burnley",
     "age": 25,
@@ -1555,9 +1718,11 @@
     "age_cat": 3,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 83,
     "name": "Scott Arfield",
     "club": "Burnley",
     "age": 28,
@@ -1574,9 +1739,11 @@
     "age_cat": 4,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 84,
     "name": "Steven Defour",
     "club": "Burnley",
     "age": 29,
@@ -1593,9 +1760,11 @@
     "age_cat": 4,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 85,
     "name": "Dean Marney",
     "club": "Burnley",
     "age": 33,
@@ -1612,9 +1781,11 @@
     "age_cat": 5,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 86,
     "name": "Jack Cork",
     "club": "Burnley",
     "age": 28,
@@ -1631,9 +1802,11 @@
     "age_cat": 4,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 87,
     "name": "Johann Berg Gudmundsson",
     "club": "Burnley",
     "age": 26,
@@ -1650,9 +1823,11 @@
     "age_cat": 3,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 88,
     "name": "Robbie Brady",
     "club": "Burnley",
     "age": 25,
@@ -1669,9 +1844,11 @@
     "age_cat": 3,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 89,
     "name": "James Tarkowski",
     "club": "Burnley",
     "age": 24,
@@ -1688,9 +1865,11 @@
     "age_cat": 2,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 90,
     "name": "Ashley Westwood",
     "club": "Burnley",
     "age": 27,
@@ -1707,9 +1886,11 @@
     "age_cat": 3,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 91,
     "name": "Kevin Long",
     "club": "Burnley",
     "age": 26,
@@ -1726,9 +1907,11 @@
     "age_cat": 3,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 92,
     "name": "Matthew Taylor",
     "club": "Burnley",
     "age": 35,
@@ -1745,9 +1928,11 @@
     "age_cat": 6,
     "club_id": 4,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 93,
     "name": "Eden Hazard",
     "club": "Chelsea",
     "age": 26,
@@ -1764,9 +1949,11 @@
     "age_cat": 3,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 94,
     "name": "Diego Costa",
     "club": "Chelsea",
     "age": 28,
@@ -1783,9 +1970,11 @@
     "age_cat": 4,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 95,
     "name": "Gary Cahill",
     "club": "Chelsea",
     "age": 31,
@@ -1802,9 +1991,11 @@
     "age_cat": 4,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 96,
     "name": "Marcos Alonso Mendoza",
     "club": "Chelsea",
     "age": 26,
@@ -1821,9 +2012,11 @@
     "age_cat": 3,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 97,
     "name": "Cesar Azpilicueta",
     "club": "Chelsea",
     "age": 27,
@@ -1840,9 +2033,11 @@
     "age_cat": 3,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 98,
     "name": "Pedro",
     "club": "Chelsea",
     "age": 29,
@@ -1859,9 +2054,11 @@
     "age_cat": 4,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 99,
     "name": "Thibaut Courtois",
     "club": "Chelsea",
     "age": 25,
@@ -1878,9 +2075,11 @@
     "age_cat": 3,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 100,
     "name": "David Luiz",
     "club": "Chelsea",
     "age": 30,
@@ -1897,9 +2096,11 @@
     "age_cat": 4,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 101,
     "name": "Cesc Fabregas",
     "club": "Chelsea",
     "age": 30,
@@ -1916,9 +2117,11 @@
     "age_cat": 4,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 102,
     "name": "Willian",
     "club": "Chelsea",
     "age": 28,
@@ -1935,9 +2138,11 @@
     "age_cat": 4,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 103,
     "name": "Victor Moses",
     "club": "Chelsea",
     "age": 26,
@@ -1954,9 +2159,11 @@
     "age_cat": 3,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 104,
     "name": "Nemanja Matic",
     "club": "Chelsea",
     "age": 28,
@@ -1973,9 +2180,11 @@
     "age_cat": 4,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 105,
     "name": "N%27Golo Kante",
     "club": "Chelsea",
     "age": 26,
@@ -1992,9 +2201,11 @@
     "age_cat": 3,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 106,
     "name": "Willy Caballero",
     "club": "Chelsea",
     "age": 35,
@@ -2011,9 +2222,11 @@
     "age_cat": 6,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 107,
     "name": "Michy Batshuayi",
     "club": "Chelsea",
     "age": 23,
@@ -2030,9 +2243,11 @@
     "age_cat": 2,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 108,
     "name": "Kurt Zouma",
     "club": "Chelsea",
     "age": 22,
@@ -2049,9 +2264,11 @@
     "age_cat": 2,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 109,
     "name": "Kenedy",
     "club": "Chelsea",
     "age": 21,
@@ -2068,9 +2285,11 @@
     "age_cat": 1,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 110,
     "name": "Eduardo Carvalho",
     "club": "Chelsea",
     "age": 34,
@@ -2087,9 +2306,11 @@
     "age_cat": 6,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 111,
     "name": "Antonio Rudiger",
     "club": "Chelsea",
     "age": 24,
@@ -2106,9 +2327,11 @@
     "age_cat": 2,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 112,
     "name": "Tiemoue Bakayoko",
     "club": "Chelsea",
     "age": 22,
@@ -2125,9 +2348,11 @@
     "age_cat": 2,
     "club_id": 5,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 113,
     "name": "Wilfried Zaha",
     "club": "Crystal+Palace",
     "age": 24,
@@ -2144,9 +2369,11 @@
     "age_cat": 2,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 114,
     "name": "Christian Benteke",
     "club": "Crystal+Palace",
     "age": 26,
@@ -2163,9 +2390,11 @@
     "age_cat": 3,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 115,
     "name": "Andros Townsend",
     "club": "Crystal+Palace",
     "age": 26,
@@ -2182,9 +2411,11 @@
     "age_cat": 3,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 116,
     "name": "Patrick van Aanholt",
     "club": "Crystal+Palace",
     "age": 26,
@@ -2201,9 +2432,11 @@
     "age_cat": 3,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 117,
     "name": "James McArthur",
     "club": "Crystal+Palace",
     "age": 29,
@@ -2220,9 +2453,11 @@
     "age_cat": 4,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 118,
     "name": "Wayne Hennessey",
     "club": "Crystal+Palace",
     "age": 30,
@@ -2239,9 +2474,11 @@
     "age_cat": 4,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 119,
     "name": "Jason Puncheon",
     "club": "Crystal+Palace",
     "age": 31,
@@ -2258,9 +2495,11 @@
     "age_cat": 4,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 120,
     "name": "Yohan Cabaye",
     "club": "Crystal+Palace",
     "age": 31,
@@ -2277,9 +2516,11 @@
     "age_cat": 4,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 121,
     "name": "Joel Ward",
     "club": "Crystal+Palace",
     "age": 27,
@@ -2296,9 +2537,11 @@
     "age_cat": 3,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 122,
     "name": "James Tomkins",
     "club": "Crystal+Palace",
     "age": 28,
@@ -2315,9 +2558,11 @@
     "age_cat": 4,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 123,
     "name": "Scott Dann",
     "club": "Crystal+Palace",
     "age": 30,
@@ -2334,9 +2579,11 @@
     "age_cat": 4,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 124,
     "name": "Damien Delaney",
     "club": "Crystal+Palace",
     "age": 36,
@@ -2353,9 +2600,11 @@
     "age_cat": 6,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 125,
     "name": "Jeffrey Schlupp",
     "club": "Crystal+Palace",
     "age": 24,
@@ -2372,9 +2621,11 @@
     "age_cat": 2,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 126,
     "name": "Martin Kelly",
     "club": "Crystal+Palace",
     "age": 27,
@@ -2391,9 +2642,11 @@
     "age_cat": 3,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 127,
     "name": "Luka Milivojevic",
     "club": "Crystal+Palace",
     "age": 26,
@@ -2410,9 +2663,11 @@
     "age_cat": 3,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 128,
     "name": "Lee Chung-yong",
     "club": "Crystal+Palace",
     "age": 29,
@@ -2429,9 +2684,11 @@
     "age_cat": 4,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 129,
     "name": "Connor Wickham",
     "club": "Crystal+Palace",
     "age": 24,
@@ -2448,9 +2705,11 @@
     "age_cat": 2,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 130,
     "name": "Bakary Sako",
     "club": "Crystal+Palace",
     "age": 29,
@@ -2467,9 +2726,11 @@
     "age_cat": 4,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 131,
     "name": "Pape Souare",
     "club": "Crystal+Palace",
     "age": 27,
@@ -2486,9 +2747,11 @@
     "age_cat": 3,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 132,
     "name": "Ruben Loftus-Cheek",
     "club": "Crystal+Palace",
     "age": 21,
@@ -2505,9 +2768,11 @@
     "age_cat": 1,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 133,
     "name": "Julian Speroni",
     "club": "Crystal+Palace",
     "age": 38,
@@ -2524,9 +2789,11 @@
     "age_cat": 6,
     "club_id": 6,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 134,
     "name": "Ross Barkley",
     "club": "Everton",
     "age": 23,
@@ -2543,9 +2810,11 @@
     "age_cat": 2,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 135,
     "name": "Leighton Baines",
     "club": "Everton",
     "age": 32,
@@ -2562,9 +2831,11 @@
     "age_cat": 5,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 136,
     "name": "Seamus Coleman",
     "club": "Everton",
     "age": 28,
@@ -2581,9 +2852,11 @@
     "age_cat": 4,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 137,
     "name": "Ashley Williams",
     "club": "Everton",
     "age": 32,
@@ -2600,9 +2873,11 @@
     "age_cat": 5,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 138,
     "name": "Kevin Mirallas",
     "club": "Everton",
     "age": 29,
@@ -2619,9 +2894,11 @@
     "age_cat": 4,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 139,
     "name": "Michael Keane",
     "club": "Everton",
     "age": 24,
@@ -2638,9 +2915,11 @@
     "age_cat": 2,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 140,
     "name": "Phil Jagielka",
     "club": "Everton",
     "age": 34,
@@ -2657,9 +2936,11 @@
     "age_cat": 6,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 141,
     "name": "Jordan Pickford",
     "club": "Everton",
     "age": 23,
@@ -2676,9 +2957,11 @@
     "age_cat": 2,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 142,
     "name": "Joel Robles",
     "club": "Everton",
     "age": 27,
@@ -2695,9 +2978,11 @@
     "age_cat": 3,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 143,
     "name": "Idrissa Gueye",
     "club": "Everton",
     "age": 27,
@@ -2714,9 +2999,11 @@
     "age_cat": 3,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 144,
     "name": "Wayne Rooney",
     "club": "Everton",
     "age": 31,
@@ -2733,9 +3020,11 @@
     "age_cat": 4,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 145,
     "name": "Ramiro Funes Mori",
     "club": "Everton",
     "age": 26,
@@ -2752,9 +3041,11 @@
     "age_cat": 3,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 146,
     "name": "Maarten Stekelenburg",
     "club": "Everton",
     "age": 34,
@@ -2771,9 +3062,11 @@
     "age_cat": 6,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 147,
     "name": "Gareth Barry",
     "club": "Everton",
     "age": 36,
@@ -2790,9 +3083,11 @@
     "age_cat": 6,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 148,
     "name": "Tom Davies",
     "club": "Everton",
     "age": 19,
@@ -2809,9 +3104,11 @@
     "age_cat": 1,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 149,
     "name": "Mason Holgate",
     "club": "Everton",
     "age": 20,
@@ -2828,9 +3125,11 @@
     "age_cat": 1,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 150,
     "name": "Yannick Bolasie",
     "club": "Everton",
     "age": 28,
@@ -2847,9 +3146,11 @@
     "age_cat": 4,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 151,
     "name": "Morgan Schneiderlin",
     "club": "Everton",
     "age": 27,
@@ -2866,9 +3167,11 @@
     "age_cat": 3,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 152,
     "name": "Cuco Martina",
     "club": "Everton",
     "age": 27,
@@ -2885,9 +3188,11 @@
     "age_cat": 3,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 153,
     "name": "James McCarthy",
     "club": "Everton",
     "age": 26,
@@ -2904,9 +3209,11 @@
     "age_cat": 3,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 154,
     "name": "Aaron Lennon",
     "club": "Everton",
     "age": 30,
@@ -2923,9 +3230,11 @@
     "age_cat": 4,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 155,
     "name": "Dominic Calvert-Lewin",
     "club": "Everton",
     "age": 20,
@@ -2942,9 +3251,11 @@
     "age_cat": 1,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 156,
     "name": "Ademola Lookman",
     "club": "Everton",
     "age": 19,
@@ -2961,9 +3272,11 @@
     "age_cat": 1,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 157,
     "name": "Matthew Pennington",
     "club": "Everton",
     "age": 22,
@@ -2980,9 +3293,11 @@
     "age_cat": 2,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 158,
     "name": "Jonjoe Kenny",
     "club": "Everton",
     "age": 20,
@@ -2999,9 +3314,11 @@
     "age_cat": 1,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 159,
     "name": "Muhamed Besic",
     "club": "Everton",
     "age": 24,
@@ -3018,9 +3335,11 @@
     "age_cat": 2,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 160,
     "name": "Davy Klaassen",
     "club": "Everton",
     "age": 24,
@@ -3037,9 +3356,11 @@
     "age_cat": 2,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 161,
     "name": "Sandro Ramirez",
     "club": "Everton",
     "age": 22,
@@ -3056,9 +3377,11 @@
     "age_cat": 2,
     "club_id": 7,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 162,
     "name": "Joel Coleman",
     "club": "Huddersfield",
     "age": 21,
@@ -3075,9 +3398,11 @@
     "age_cat": 1,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 163,
     "name": "Jonas Lossl",
     "club": "Huddersfield",
     "age": 28,
@@ -3094,9 +3419,11 @@
     "age_cat": 4,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 164,
     "name": "Christopher Schindler",
     "club": "Huddersfield",
     "age": 27,
@@ -3113,9 +3440,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 165,
     "name": "Chris Lowe",
     "club": "Huddersfield",
     "age": 28,
@@ -3132,9 +3461,11 @@
     "age_cat": 4,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 166,
     "name": "Tommy Smith",
     "club": "Huddersfield",
     "age": 25,
@@ -3151,9 +3482,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 167,
     "name": "Michael Hefele",
     "club": "Huddersfield",
     "age": 26,
@@ -3170,9 +3503,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 168,
     "name": "Martin Cranie",
     "club": "Huddersfield",
     "age": 30,
@@ -3189,9 +3524,11 @@
     "age_cat": 4,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 169,
     "name": "Jon Gorenc Stankovic",
     "club": "Huddersfield",
     "age": 21,
@@ -3208,9 +3545,11 @@
     "age_cat": 1,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 170,
     "name": "Mark Hudson",
     "club": "Huddersfield",
     "age": 35,
@@ -3227,9 +3566,11 @@
     "age_cat": 6,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 171,
     "name": "Mathias Jorgensen",
     "club": "Huddersfield",
     "age": 27,
@@ -3246,9 +3587,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 172,
     "name": "Scott Malone",
     "club": "Huddersfield",
     "age": 26,
@@ -3265,9 +3608,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 173,
     "name": "Aaron Mooy",
     "club": "Huddersfield",
     "age": 26,
@@ -3284,9 +3629,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 174,
     "name": "Rajiv van La Parra",
     "club": "Huddersfield",
     "age": 26,
@@ -3303,9 +3650,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 175,
     "name": "Jonathan Hogg",
     "club": "Huddersfield",
     "age": 28,
@@ -3322,9 +3671,11 @@
     "age_cat": 4,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 176,
     "name": "Philip Billing",
     "club": "Huddersfield",
     "age": 21,
@@ -3341,9 +3692,11 @@
     "age_cat": 1,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 177,
     "name": "Joe Lolley",
     "club": "Huddersfield",
     "age": 24,
@@ -3360,9 +3713,11 @@
     "age_cat": 2,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 178,
     "name": "Jack Payne",
     "club": "Huddersfield",
     "age": 25,
@@ -3379,9 +3734,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 179,
     "name": "Dean Whitehead",
     "club": "Huddersfield",
     "age": 35,
@@ -3398,9 +3755,11 @@
     "age_cat": 6,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 180,
     "name": "Harry Bunn",
     "club": "Huddersfield",
     "age": 24,
@@ -3417,9 +3776,11 @@
     "age_cat": 2,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 181,
     "name": "Sean Scannell",
     "club": "Huddersfield",
     "age": 26,
@@ -3436,9 +3797,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 182,
     "name": "Elias Kachunga",
     "club": "Huddersfield",
     "age": 25,
@@ -3455,9 +3818,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 183,
     "name": "Tom Ince",
     "club": "Huddersfield",
     "age": 25,
@@ -3474,9 +3839,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 184,
     "name": "Kasey Palmer",
     "club": "Huddersfield",
     "age": 20,
@@ -3493,9 +3860,11 @@
     "age_cat": 1,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 185,
     "name": "Andy Williams",
     "club": "Huddersfield",
     "age": 26,
@@ -3512,9 +3881,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 186,
     "name": "Nahki Wells",
     "club": "Huddersfield",
     "age": 27,
@@ -3531,9 +3902,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 187,
     "name": "Collin Quaner",
     "club": "Huddersfield",
     "age": 26,
@@ -3550,9 +3923,11 @@
     "age_cat": 3,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 188,
     "name": "Laurent Depoitre",
     "club": "Huddersfield",
     "age": 28,
@@ -3569,9 +3944,11 @@
     "age_cat": 4,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 189,
     "name": "Steve Mounie",
     "club": "Huddersfield",
     "age": 22,
@@ -3588,9 +3965,11 @@
     "age_cat": 2,
     "club_id": 8,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 190,
     "name": "Jamie Vardy",
     "club": "Leicester+City",
     "age": 30,
@@ -3607,9 +3986,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 191,
     "name": "Riyad Mahrez",
     "club": "Leicester+City",
     "age": 26,
@@ -3626,9 +4007,11 @@
     "age_cat": 3,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 192,
     "name": "Kasper Schmeichel",
     "club": "Leicester+City",
     "age": 30,
@@ -3645,9 +4028,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 193,
     "name": "Christian Fuchs",
     "club": "Leicester+City",
     "age": 31,
@@ -3664,9 +4049,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 194,
     "name": "Marc Albrighton",
     "club": "Leicester+City",
     "age": 27,
@@ -3683,9 +4070,11 @@
     "age_cat": 3,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 195,
     "name": "Robert Huth",
     "club": "Leicester+City",
     "age": 32,
@@ -3702,9 +4091,11 @@
     "age_cat": 5,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 196,
     "name": "Danny Simpson",
     "club": "Leicester+City",
     "age": 30,
@@ -3721,9 +4112,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 197,
     "name": "Islam Slimani",
     "club": "Leicester+City",
     "age": 29,
@@ -3740,9 +4133,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 198,
     "name": "Harry Maguire",
     "club": "Leicester+City",
     "age": 24,
@@ -3759,9 +4154,11 @@
     "age_cat": 2,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 199,
     "name": "Danny Drinkwater",
     "club": "Leicester+City",
     "age": 27,
@@ -3778,9 +4175,11 @@
     "age_cat": 3,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 200,
     "name": "Wes Morgan",
     "club": "Leicester+City",
     "age": 33,
@@ -3797,9 +4196,11 @@
     "age_cat": 5,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 201,
     "name": "Shinji Okazaki",
     "club": "Leicester+City",
     "age": 31,
@@ -3816,9 +4217,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 202,
     "name": "Wilfred Ndidi",
     "club": "Leicester+City",
     "age": 20,
@@ -3835,9 +4238,11 @@
     "age_cat": 1,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 203,
     "name": "Demarai Gray",
     "club": "Leicester+City",
     "age": 21,
@@ -3854,9 +4259,11 @@
     "age_cat": 1,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 204,
     "name": "Daniel Amartey",
     "club": "Leicester+City",
     "age": 22,
@@ -3873,9 +4280,11 @@
     "age_cat": 2,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 205,
     "name": "Andy King",
     "club": "Leicester+City",
     "age": 28,
@@ -3892,9 +4301,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 206,
     "name": "Ahmed Musa",
     "club": "Leicester+City",
     "age": 24,
@@ -3911,9 +4322,11 @@
     "age_cat": 2,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 207,
     "name": "Yohan Benalouane",
     "club": "Leicester+City",
     "age": 30,
@@ -3930,9 +4343,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 208,
     "name": "Leonardo Ulloa",
     "club": "Leicester+City",
     "age": 30,
@@ -3949,9 +4364,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 209,
     "name": "Ben Chilwell",
     "club": "Leicester+City",
     "age": 20,
@@ -3968,9 +4385,11 @@
     "age_cat": 1,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 210,
     "name": "Nampalys Mendy",
     "club": "Leicester+City",
     "age": 25,
@@ -3987,9 +4406,11 @@
     "age_cat": 3,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 211,
     "name": "Ben Hamer",
     "club": "Leicester+City",
     "age": 29,
@@ -4006,9 +4427,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 212,
     "name": "Molla Wague",
     "club": "Leicester+City",
     "age": 26,
@@ -4025,9 +4448,11 @@
     "age_cat": 3,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 213,
     "name": "Vicente Iborra",
     "club": "Leicester+City",
     "age": 29,
@@ -4044,9 +4469,11 @@
     "age_cat": 4,
     "club_id": 9,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 214,
     "name": "Roberto Firmino",
     "club": "Liverpool",
     "age": 25,
@@ -4063,9 +4490,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 215,
     "name": "Philippe Coutinho",
     "club": "Liverpool",
     "age": 25,
@@ -4082,9 +4511,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 216,
     "name": "Sadio Mane",
     "club": "Liverpool",
     "age": 25,
@@ -4101,9 +4532,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 217,
     "name": "Georginio Wijnaldum",
     "club": "Liverpool",
     "age": 26,
@@ -4120,9 +4553,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 218,
     "name": "James Milner",
     "club": "Liverpool",
     "age": 31,
@@ -4139,9 +4574,11 @@
     "age_cat": 4,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 219,
     "name": "Adam Lallana",
     "club": "Liverpool",
     "age": 29,
@@ -4158,9 +4595,11 @@
     "age_cat": 4,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 220,
     "name": "Nathaniel Clyne",
     "club": "Liverpool",
     "age": 26,
@@ -4177,9 +4616,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 221,
     "name": "Simon Mignolet",
     "club": "Liverpool",
     "age": 29,
@@ -4196,9 +4637,11 @@
     "age_cat": 4,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 222,
     "name": "Dejan Lovren",
     "club": "Liverpool",
     "age": 28,
@@ -4215,9 +4658,11 @@
     "age_cat": 4,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 223,
     "name": "Emre Can",
     "club": "Liverpool",
     "age": 23,
@@ -4234,9 +4679,11 @@
     "age_cat": 2,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 224,
     "name": "Joel Matip",
     "club": "Liverpool",
     "age": 25,
@@ -4253,9 +4700,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 225,
     "name": "Divock Origi",
     "club": "Liverpool",
     "age": 22,
@@ -4272,9 +4721,11 @@
     "age_cat": 2,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 226,
     "name": "Jordan Henderson",
     "club": "Liverpool",
     "age": 27,
@@ -4291,9 +4742,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 227,
     "name": "Daniel Sturridge",
     "club": "Liverpool",
     "age": 27,
@@ -4310,9 +4763,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 228,
     "name": "Lucas Leiva",
     "club": "Liverpool",
     "age": 30,
@@ -4329,9 +4784,11 @@
     "age_cat": 4,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 229,
     "name": "Ragnar Klavan",
     "club": "Liverpool",
     "age": 31,
@@ -4348,9 +4805,11 @@
     "age_cat": 4,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 230,
     "name": "Mamadou Sakho",
     "club": "Liverpool",
     "age": 27,
@@ -4367,9 +4826,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 231,
     "name": "Loris Karius",
     "club": "Liverpool",
     "age": 24,
@@ -4386,9 +4847,11 @@
     "age_cat": 2,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 232,
     "name": "Trent Alexander-Arnold",
     "club": "Liverpool",
     "age": 18,
@@ -4405,9 +4868,11 @@
     "age_cat": 1,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 233,
     "name": "Alberto Moreno",
     "club": "Liverpool",
     "age": 25,
@@ -4424,9 +4889,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 234,
     "name": "Ben Woodburn",
     "club": "Liverpool",
     "age": 17,
@@ -4443,9 +4910,11 @@
     "age_cat": 1,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 235,
     "name": "Marko Grujic",
     "club": "Liverpool",
     "age": 21,
@@ -4462,9 +4931,11 @@
     "age_cat": 1,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 236,
     "name": "Joe Gomez",
     "club": "Liverpool",
     "age": 20,
@@ -4481,9 +4952,11 @@
     "age_cat": 1,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 237,
     "name": "Sheyi Ojo",
     "club": "Liverpool",
     "age": 20,
@@ -4500,9 +4973,11 @@
     "age_cat": 1,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 238,
     "name": "Mohamed Salah",
     "club": "Liverpool",
     "age": 25,
@@ -4519,9 +4994,11 @@
     "age_cat": 3,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 239,
     "name": "Danny Ings",
     "club": "Liverpool",
     "age": 24,
@@ -4538,9 +5015,11 @@
     "age_cat": 2,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 240,
     "name": "Dominic Solanke",
     "club": "Liverpool",
     "age": 19,
@@ -4557,9 +5036,11 @@
     "age_cat": 1,
     "club_id": 10,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 241,
     "name": "Kevin De Bruyne",
     "club": "Manchester+City",
     "age": 26,
@@ -4576,9 +5057,11 @@
     "age_cat": 3,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 242,
     "name": "Sergio Aguero",
     "club": "Manchester+City",
     "age": 29,
@@ -4595,9 +5078,11 @@
     "age_cat": 4,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 243,
     "name": "Raheem Sterling",
     "club": "Manchester+City",
     "age": 22,
@@ -4614,9 +5099,11 @@
     "age_cat": 2,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 244,
     "name": "Kyle Walker",
     "club": "Manchester+City",
     "age": 27,
@@ -4633,9 +5120,11 @@
     "age_cat": 3,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 245,
     "name": "David Silva",
     "club": "Manchester+City",
     "age": 31,
@@ -4652,9 +5141,11 @@
     "age_cat": 4,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 246,
     "name": "Leroy Sane",
     "club": "Manchester+City",
     "age": 21,
@@ -4671,9 +5162,11 @@
     "age_cat": 1,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 247,
     "name": "Nicolas Otamendi",
     "club": "Manchester+City",
     "age": 29,
@@ -4690,9 +5183,11 @@
     "age_cat": 4,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 248,
     "name": "Aleksandar Kolarov",
     "club": "Manchester+City",
     "age": 31,
@@ -4709,9 +5204,11 @@
     "age_cat": 4,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 249,
     "name": "Yaya Toure",
     "club": "Manchester+City",
     "age": 34,
@@ -4728,9 +5225,11 @@
     "age_cat": 6,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 250,
     "name": "Fernandinho",
     "club": "Manchester+City",
     "age": 32,
@@ -4747,9 +5246,11 @@
     "age_cat": 5,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 251,
     "name": "Claudio Bravo",
     "club": "Manchester+City",
     "age": 34,
@@ -4766,9 +5267,11 @@
     "age_cat": 6,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 252,
     "name": "Gabriel Jesus",
     "club": "Manchester+City",
     "age": 20,
@@ -4785,9 +5288,11 @@
     "age_cat": 1,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 253,
     "name": "John Stones",
     "club": "Manchester+City",
     "age": 23,
@@ -4804,9 +5309,11 @@
     "age_cat": 2,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 254,
     "name": "Vincent Kompany",
     "club": "Manchester+City",
     "age": 31,
@@ -4823,9 +5330,11 @@
     "age_cat": 4,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 255,
     "name": "Kelechi Iheanacho",
     "club": "Manchester+City",
     "age": 20,
@@ -4842,9 +5351,11 @@
     "age_cat": 1,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 256,
     "name": "Ilkay Gundogan",
     "club": "Manchester+City",
     "age": 26,
@@ -4861,9 +5372,11 @@
     "age_cat": 3,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 257,
     "name": "Fernando",
     "club": "Manchester+City",
     "age": 32,
@@ -4880,9 +5393,11 @@
     "age_cat": 5,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 258,
     "name": "Fabian Delph",
     "club": "Manchester+City",
     "age": 27,
@@ -4899,9 +5414,11 @@
     "age_cat": 3,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 259,
     "name": "Ederson Moraes",
     "club": "Manchester+City",
     "age": 23,
@@ -4918,9 +5435,11 @@
     "age_cat": 2,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 260,
     "name": "Bernardo Silva",
     "club": "Manchester+City",
     "age": 22,
@@ -4937,9 +5456,11 @@
     "age_cat": 2,
     "club_id": 11,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 261,
     "name": "Romelu Lukaku",
     "club": "Manchester+United",
     "age": 24,
@@ -4956,9 +5477,11 @@
     "age_cat": 2,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 262,
     "name": "David de Gea",
     "club": "Manchester+United",
     "age": 26,
@@ -4975,9 +5498,11 @@
     "age_cat": 3,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 263,
     "name": "Antonio Valencia",
     "club": "Manchester+United",
     "age": 31,
@@ -4994,9 +5519,11 @@
     "age_cat": 4,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 264,
     "name": "Paul Pogba",
     "club": "Manchester+United",
     "age": 24,
@@ -5013,9 +5540,11 @@
     "age_cat": 2,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 265,
     "name": "Eric Bailly",
     "club": "Manchester+United",
     "age": 23,
@@ -5032,9 +5561,11 @@
     "age_cat": 2,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 266,
     "name": "Juan Mata",
     "club": "Manchester+United",
     "age": 29,
@@ -5051,9 +5582,11 @@
     "age_cat": 4,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 267,
     "name": "Daley Blind",
     "club": "Manchester+United",
     "age": 27,
@@ -5070,9 +5603,11 @@
     "age_cat": 3,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 268,
     "name": "Ander Herrera",
     "club": "Manchester+United",
     "age": 27,
@@ -5089,9 +5624,11 @@
     "age_cat": 3,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 269,
     "name": "Anthony Martial",
     "club": "Manchester+United",
     "age": 21,
@@ -5108,9 +5645,11 @@
     "age_cat": 1,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 270,
     "name": "Marcos Rojo",
     "club": "Manchester+United",
     "age": 27,
@@ -5127,9 +5666,11 @@
     "age_cat": 3,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 271,
     "name": "Marcus Rashford",
     "club": "Manchester+United",
     "age": 19,
@@ -5146,9 +5687,11 @@
     "age_cat": 1,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 272,
     "name": "Henrikh Mkhitaryan",
     "club": "Manchester+United",
     "age": 28,
@@ -5165,9 +5708,11 @@
     "age_cat": 4,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 273,
     "name": "Matteo Darmian",
     "club": "Manchester+United",
     "age": 27,
@@ -5184,9 +5729,11 @@
     "age_cat": 3,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 274,
     "name": "Jesse Lingard",
     "club": "Manchester+United",
     "age": 24,
@@ -5203,9 +5750,11 @@
     "age_cat": 2,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 275,
     "name": "Phil Jones",
     "club": "Manchester+United",
     "age": 25,
@@ -5222,9 +5771,11 @@
     "age_cat": 3,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 276,
     "name": "Chris Smalling",
     "club": "Manchester+United",
     "age": 27,
@@ -5241,9 +5792,11 @@
     "age_cat": 3,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 277,
     "name": "Marouane Fellaini",
     "club": "Manchester+United",
     "age": 29,
@@ -5260,9 +5813,11 @@
     "age_cat": 4,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 278,
     "name": "Luke Shaw",
     "club": "Manchester+United",
     "age": 22,
@@ -5279,9 +5834,11 @@
     "age_cat": 2,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 279,
     "name": "Michael Carrick",
     "club": "Manchester+United",
     "age": 35,
@@ -5298,9 +5855,11 @@
     "age_cat": 6,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 280,
     "name": "Ashley Young",
     "club": "Manchester+United",
     "age": 32,
@@ -5317,9 +5876,11 @@
     "age_cat": 5,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 281,
     "name": "Sergio Romero",
     "club": "Manchester+United",
     "age": 30,
@@ -5336,9 +5897,11 @@
     "age_cat": 4,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 282,
     "name": "Axel Tuanzebe",
     "club": "Manchester+United",
     "age": 19,
@@ -5355,9 +5918,11 @@
     "age_cat": 1,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 283,
     "name": "Timothy Fosu-Mensah",
     "club": "Manchester+United",
     "age": 19,
@@ -5374,9 +5939,11 @@
     "age_cat": 1,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 284,
     "name": "Joel Castro Pereira",
     "club": "Manchester+United",
     "age": 21,
@@ -5393,9 +5960,11 @@
     "age_cat": 1,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 285,
     "name": "Victor Lindelof",
     "club": "Manchester+United",
     "age": 23,
@@ -5412,9 +5981,11 @@
     "age_cat": 2,
     "club_id": 12,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 286,
     "name": "Rob Elliot",
     "club": "Newcastle+United",
     "age": 31,
@@ -5431,9 +6002,11 @@
     "age_cat": 4,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 287,
     "name": "Karl Darlow",
     "club": "Newcastle+United",
     "age": 26,
@@ -5450,9 +6023,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 288,
     "name": "DeAndre Yedlin",
     "club": "Newcastle+United",
     "age": 24,
@@ -5469,9 +6044,11 @@
     "age_cat": 2,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 289,
     "name": "Ciaran Clark",
     "club": "Newcastle+United",
     "age": 27,
@@ -5488,9 +6065,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 290,
     "name": "Lascelles",
     "club": "Newcastle+United",
     "age": 27,
@@ -5507,9 +6086,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 291,
     "name": "Paul Dummett",
     "club": "Newcastle+United",
     "age": 25,
@@ -5526,9 +6107,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 292,
     "name": "Grant Hanley",
     "club": "Newcastle+United",
     "age": 25,
@@ -5545,9 +6128,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 293,
     "name": "Jesus Gamez",
     "club": "Newcastle+United",
     "age": 32,
@@ -5564,9 +6149,11 @@
     "age_cat": 5,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 294,
     "name": "Florian Lejeune",
     "club": "Newcastle+United",
     "age": 26,
@@ -5583,9 +6170,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 295,
     "name": "Massadio Haidara",
     "club": "Newcastle+United",
     "age": 24,
@@ -5602,9 +6191,11 @@
     "age_cat": 2,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 296,
     "name": "Matt Ritchie",
     "club": "Newcastle+United",
     "age": 27,
@@ -5621,9 +6212,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 297,
     "name": "Jonjo Shelvey",
     "club": "Newcastle+United",
     "age": 25,
@@ -5640,9 +6233,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 298,
     "name": "Mohamed Diame",
     "club": "Newcastle+United",
     "age": 30,
@@ -5659,9 +6254,11 @@
     "age_cat": 4,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 299,
     "name": "Jack Colback",
     "club": "Newcastle+United",
     "age": 27,
@@ -5678,9 +6275,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 300,
     "name": "Christian Atsu",
     "club": "Newcastle+United",
     "age": 25,
@@ -5697,9 +6296,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 301,
     "name": "Siem de Jong",
     "club": "Newcastle+United",
     "age": 28,
@@ -5716,9 +6317,11 @@
     "age_cat": 4,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 302,
     "name": "Rolando Aarons",
     "club": "Newcastle+United",
     "age": 21,
@@ -5735,9 +6338,11 @@
     "age_cat": 1,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 303,
     "name": "Dwight Gayle",
     "club": "Newcastle+United",
     "age": 26,
@@ -5754,9 +6359,11 @@
     "age_cat": 3,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 304,
     "name": "Ayoze Perez",
     "club": "Newcastle+United",
     "age": 23,
@@ -5773,9 +6380,11 @@
     "age_cat": 2,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 305,
     "name": "Aleksandar Mitrovic",
     "club": "Newcastle+United",
     "age": 22,
@@ -5792,9 +6401,11 @@
     "age_cat": 2,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 306,
     "name": "Daryl Murphy",
     "club": "Newcastle+United",
     "age": 34,
@@ -5811,9 +6422,11 @@
     "age_cat": 6,
     "club_id": 13,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 307,
     "name": "Fraser Forster",
     "club": "Southampton",
     "age": 29,
@@ -5830,9 +6443,11 @@
     "age_cat": 4,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 308,
     "name": "Nathan Redmond",
     "club": "Southampton",
     "age": 23,
@@ -5849,9 +6464,11 @@
     "age_cat": 2,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 309,
     "name": "Ryan Bertrand",
     "club": "Southampton",
     "age": 27,
@@ -5868,10 +6485,12 @@
     "age_cat": 3,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
-    "name": "DuÅ¡an TadiÄ‡",
+    "id": 310,
+    "name": "Du탌�an Tadi����",
     "club": "Southampton",
     "age": 28,
     "position": "LW",
@@ -5887,9 +6506,11 @@
     "age_cat": 4,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 311,
     "name": "Cedric Soares",
     "club": "Southampton",
     "age": 25,
@@ -5906,9 +6527,11 @@
     "age_cat": 3,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 312,
     "name": "James Ward-Prowse",
     "club": "Southampton",
     "age": 22,
@@ -5925,9 +6548,11 @@
     "age_cat": 2,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 313,
     "name": "Oriol Romeu",
     "club": "Southampton",
     "age": 25,
@@ -5944,9 +6569,11 @@
     "age_cat": 3,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 314,
     "name": "Maya Yoshida",
     "club": "Southampton",
     "age": 28,
@@ -5963,9 +6590,11 @@
     "age_cat": 4,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 315,
     "name": "Steven Davis",
     "club": "Southampton",
     "age": 32,
@@ -5982,9 +6611,11 @@
     "age_cat": 5,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 316,
     "name": "Virgil van Dijk",
     "club": "Southampton",
     "age": 26,
@@ -6001,9 +6632,11 @@
     "age_cat": 3,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 317,
     "name": "Charlie Austin",
     "club": "Southampton",
     "age": 28,
@@ -6020,9 +6653,11 @@
     "age_cat": 4,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 318,
     "name": "Jack Stephens",
     "club": "Southampton",
     "age": 23,
@@ -6039,9 +6674,11 @@
     "age_cat": 2,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 319,
     "name": "Shane Long",
     "club": "Southampton",
     "age": 30,
@@ -6058,9 +6695,11 @@
     "age_cat": 4,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 320,
     "name": "Sofiane Boufal",
     "club": "Southampton",
     "age": 23,
@@ -6077,9 +6716,11 @@
     "age_cat": 2,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 321,
     "name": "Jordy Clasie",
     "club": "Southampton",
     "age": 26,
@@ -6096,9 +6737,11 @@
     "age_cat": 3,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 322,
     "name": "Pierre-Emile Hojbjerg",
     "club": "Southampton",
     "age": 21,
@@ -6115,9 +6758,11 @@
     "age_cat": 1,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 323,
     "name": "Manolo Gabbiadini",
     "club": "Southampton",
     "age": 25,
@@ -6134,9 +6779,11 @@
     "age_cat": 3,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 324,
     "name": "Sam McQueen",
     "club": "Southampton",
     "age": 22,
@@ -6153,9 +6800,11 @@
     "age_cat": 2,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 325,
     "name": "Matt Targett",
     "club": "Southampton",
     "age": 21,
@@ -6172,9 +6821,11 @@
     "age_cat": 1,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 326,
     "name": "Josh Sims",
     "club": "Southampton",
     "age": 20,
@@ -6191,9 +6842,11 @@
     "age_cat": 1,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 327,
     "name": "Jeremy Pied",
     "club": "Southampton",
     "age": 28,
@@ -6210,9 +6863,11 @@
     "age_cat": 4,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 328,
     "name": "Jason McCarthy",
     "club": "Southampton",
     "age": 21,
@@ -6229,9 +6884,11 @@
     "age_cat": 1,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 329,
     "name": "Jan Bednarek",
     "club": "Southampton",
     "age": 21,
@@ -6248,9 +6905,11 @@
     "age_cat": 1,
     "club_id": 14,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 330,
     "name": "Joe Allen",
     "club": "Stoke+City",
     "age": 27,
@@ -6267,10 +6926,12 @@
     "age_cat": 3,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
-    "name": "Marko ArnautoviÄ‡",
+    "id": 331,
+    "name": "Marko Arnautovi����",
     "club": "Stoke+City",
     "age": 28,
     "position": "LW",
@@ -6286,9 +6947,11 @@
     "age_cat": 4,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 332,
     "name": "Lee Grant",
     "club": "Stoke+City",
     "age": 34,
@@ -6305,9 +6968,11 @@
     "age_cat": 6,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 333,
     "name": "Erik Pieters",
     "club": "Stoke+City",
     "age": 28,
@@ -6324,9 +6989,11 @@
     "age_cat": 4,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 334,
     "name": "Steven Fletcher",
     "club": "Stoke+City",
     "age": 30,
@@ -6343,9 +7010,11 @@
     "age_cat": 4,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 335,
     "name": "Ryan Shawcross",
     "club": "Stoke+City",
     "age": 29,
@@ -6362,9 +7031,11 @@
     "age_cat": 4,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 336,
     "name": "Xherdan Shaqiri",
     "club": "Stoke+City",
     "age": 25,
@@ -6381,9 +7052,11 @@
     "age_cat": 3,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 337,
     "name": "Peter Crouch",
     "club": "Stoke+City",
     "age": 36,
@@ -6400,9 +7073,11 @@
     "age_cat": 6,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 338,
     "name": "Glenn Whelan",
     "club": "Stoke+City",
     "age": 33,
@@ -6419,9 +7094,11 @@
     "age_cat": 5,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 339,
     "name": "Charlie Adam",
     "club": "Stoke+City",
     "age": 31,
@@ -6438,9 +7115,11 @@
     "age_cat": 4,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 340,
     "name": "Geoff Cameron",
     "club": "Stoke+City",
     "age": 32,
@@ -6457,9 +7136,11 @@
     "age_cat": 5,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 341,
     "name": "Glen Johnson",
     "club": "Stoke+City",
     "age": 32,
@@ -6476,9 +7157,11 @@
     "age_cat": 5,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 342,
     "name": "Mame Biram Diouf",
     "club": "Stoke+City",
     "age": 29,
@@ -6495,9 +7178,11 @@
     "age_cat": 4,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 343,
     "name": "Ramadan Sobhi",
     "club": "Stoke+City",
     "age": 20,
@@ -6514,9 +7199,11 @@
     "age_cat": 1,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 344,
     "name": "Marc Muniesa",
     "club": "Stoke+City",
     "age": 25,
@@ -6533,10 +7220,12 @@
     "age_cat": 3,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
-    "name": "Bojan KrkiÄ‡",
+    "id": 345,
+    "name": "Bojan Krki����",
     "club": "Stoke+City",
     "age": 26,
     "position": "SS",
@@ -6552,9 +7241,11 @@
     "age_cat": 3,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 346,
     "name": "Phil Bardsley",
     "club": "Stoke+City",
     "age": 32,
@@ -6571,9 +7262,11 @@
     "age_cat": 5,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 347,
     "name": "Saido Berahino",
     "club": "Stoke+City",
     "age": 23,
@@ -6590,9 +7283,11 @@
     "age_cat": 2,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 348,
     "name": "Giannelli Imbula",
     "club": "Stoke+City",
     "age": 24,
@@ -6609,9 +7304,11 @@
     "age_cat": 2,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 349,
     "name": "Jack Butland",
     "club": "Stoke+City",
     "age": 24,
@@ -6628,9 +7325,11 @@
     "age_cat": 2,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 350,
     "name": "Ibrahim Afellay",
     "club": "Stoke+City",
     "age": 31,
@@ -6647,9 +7346,11 @@
     "age_cat": 4,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 351,
     "name": "Josh Tymon",
     "club": "Stoke+City",
     "age": 18,
@@ -6666,9 +7367,11 @@
     "age_cat": 1,
     "club_id": 15,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 352,
     "name": "Gylfi Sigurdsson",
     "club": "Swansea",
     "age": 27,
@@ -6685,9 +7388,11 @@
     "age_cat": 3,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 353,
     "name": "Fernando Llorente",
     "club": "Swansea",
     "age": 32,
@@ -6704,10 +7409,12 @@
     "age_cat": 5,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
-    "name": "Åukasz FabiaÅ„ski",
+    "id": 354,
+    "name": "탌�ukasz Fabia���_ski",
     "club": "Swansea",
     "age": 32,
     "position": "GK",
@@ -6723,9 +7430,11 @@
     "age_cat": 5,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 355,
     "name": "Leroy Fer",
     "club": "Swansea",
     "age": 27,
@@ -6742,9 +7451,11 @@
     "age_cat": 3,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 356,
     "name": "Alfie Mawson",
     "club": "Swansea",
     "age": 23,
@@ -6761,9 +7472,11 @@
     "age_cat": 2,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 357,
     "name": "Kyle Naughton",
     "club": "Swansea",
     "age": 28,
@@ -6780,9 +7493,11 @@
     "age_cat": 4,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 358,
     "name": "Wayne Routledge",
     "club": "Swansea",
     "age": 32,
@@ -6799,9 +7514,11 @@
     "age_cat": 5,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 359,
     "name": "Federico Fernandez",
     "club": "Swansea",
     "age": 28,
@@ -6818,9 +7535,11 @@
     "age_cat": 4,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 360,
     "name": "Martin Olsson",
     "club": "Swansea",
     "age": 29,
@@ -6837,9 +7556,11 @@
     "age_cat": 4,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 361,
     "name": "Tom Carroll",
     "club": "Swansea",
     "age": 25,
@@ -6856,9 +7577,11 @@
     "age_cat": 3,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 362,
     "name": "Ki Sung-yueng",
     "club": "Swansea",
     "age": 28,
@@ -6875,9 +7598,11 @@
     "age_cat": 4,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 363,
     "name": "Jordan Ayew",
     "club": "Swansea",
     "age": 25,
@@ -6894,9 +7619,11 @@
     "age_cat": 3,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 364,
     "name": "Modou Barrow",
     "club": "Swansea",
     "age": 24,
@@ -6913,9 +7640,11 @@
     "age_cat": 2,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 365,
     "name": "Leon Britton",
     "club": "Swansea",
     "age": 34,
@@ -6932,9 +7661,11 @@
     "age_cat": 6,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 366,
     "name": "Stephen Kingsley",
     "club": "Swansea",
     "age": 22,
@@ -6951,10 +7682,12 @@
     "age_cat": 2,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
-    "name": "Ã€ngel Rangel",
+    "id": 367,
+    "name": "���ngel Rangel",
     "club": "Swansea",
     "age": 34,
     "position": "RB",
@@ -6970,9 +7703,11 @@
     "age_cat": 6,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 368,
     "name": "Luciano Narsingh",
     "club": "Swansea",
     "age": 26,
@@ -6989,9 +7724,11 @@
     "age_cat": 3,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 369,
     "name": "Jay Fulton",
     "club": "Swansea",
     "age": 23,
@@ -7008,9 +7745,11 @@
     "age_cat": 2,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 370,
     "name": "Jefferson Montero",
     "club": "Swansea",
     "age": 27,
@@ -7027,9 +7766,11 @@
     "age_cat": 3,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 371,
     "name": "Mike van der Hoorn",
     "club": "Swansea",
     "age": 24,
@@ -7046,9 +7787,11 @@
     "age_cat": 2,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 372,
     "name": "Nathan Dyer",
     "club": "Swansea",
     "age": 29,
@@ -7065,9 +7808,11 @@
     "age_cat": 4,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 373,
     "name": "Oliver McBurnie",
     "club": "Swansea",
     "age": 21,
@@ -7084,9 +7829,11 @@
     "age_cat": 1,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 374,
     "name": "Kristoffer Nordfeldt",
     "club": "Swansea",
     "age": 28,
@@ -7103,9 +7850,11 @@
     "age_cat": 4,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 375,
     "name": "Roque Mesa",
     "club": "Swansea",
     "age": 28,
@@ -7122,9 +7871,11 @@
     "age_cat": 4,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 376,
     "name": "Tammy Abraham",
     "club": "Swansea",
     "age": 19,
@@ -7141,9 +7892,11 @@
     "age_cat": 1,
     "club_id": 16,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 377,
     "name": "Dele Alli",
     "club": "Tottenham",
     "age": 21,
@@ -7160,9 +7913,11 @@
     "age_cat": 1,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 378,
     "name": "Harry Kane",
     "club": "Tottenham",
     "age": 23,
@@ -7179,9 +7934,11 @@
     "age_cat": 2,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 379,
     "name": "Christian Eriksen",
     "club": "Tottenham",
     "age": 25,
@@ -7198,9 +7955,11 @@
     "age_cat": 3,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 380,
     "name": "Son Heung-min",
     "club": "Tottenham",
     "age": 25,
@@ -7217,9 +7976,11 @@
     "age_cat": 3,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 381,
     "name": "Hugo Lloris",
     "club": "Tottenham",
     "age": 30,
@@ -7236,9 +7997,11 @@
     "age_cat": 4,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 382,
     "name": "Jan Vertonghen",
     "club": "Tottenham",
     "age": 30,
@@ -7255,9 +8018,11 @@
     "age_cat": 4,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 383,
     "name": "Toby Alderweireld",
     "club": "Tottenham",
     "age": 28,
@@ -7274,9 +8039,11 @@
     "age_cat": 4,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 384,
     "name": "Victor Wanyama",
     "club": "Tottenham",
     "age": 26,
@@ -7293,9 +8060,11 @@
     "age_cat": 3,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 385,
     "name": "Eric Dier",
     "club": "Tottenham",
     "age": 23,
@@ -7312,9 +8081,11 @@
     "age_cat": 2,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 386,
     "name": "Ben Davies",
     "club": "Tottenham",
     "age": 24,
@@ -7331,9 +8102,11 @@
     "age_cat": 2,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 387,
     "name": "Danny Rose",
     "club": "Tottenham",
     "age": 27,
@@ -7350,9 +8123,11 @@
     "age_cat": 3,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 388,
     "name": "Mousa Dembele",
     "club": "Tottenham",
     "age": 30,
@@ -7369,9 +8144,11 @@
     "age_cat": 4,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 389,
     "name": "Vincent Janssen",
     "club": "Tottenham",
     "age": 23,
@@ -7388,9 +8165,11 @@
     "age_cat": 2,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 390,
     "name": "Kieran Trippier",
     "club": "Tottenham",
     "age": 26,
@@ -7407,9 +8186,11 @@
     "age_cat": 3,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 391,
     "name": "Moussa Sissokho",
     "club": "Tottenham",
     "age": 27,
@@ -7426,9 +8207,11 @@
     "age_cat": 3,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 392,
     "name": "Harry Winks",
     "club": "Tottenham",
     "age": 21,
@@ -7445,9 +8228,11 @@
     "age_cat": 1,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 393,
     "name": "Erik Lamela",
     "club": "Tottenham",
     "age": 25,
@@ -7464,9 +8249,11 @@
     "age_cat": 3,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 394,
     "name": "Michel Vorm",
     "club": "Tottenham",
     "age": 33,
@@ -7483,9 +8270,11 @@
     "age_cat": 5,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 395,
     "name": "Georges-Kevin N%27Koudou",
     "club": "Tottenham",
     "age": 22,
@@ -7502,9 +8291,11 @@
     "age_cat": 2,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 396,
     "name": "Kevin Wimmer",
     "club": "Tottenham",
     "age": 24,
@@ -7521,10 +8312,12 @@
     "age_cat": 2,
     "club_id": 17,
     "big_club": 1,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
-    "name": "Ã‰tienne Capoue",
+    "id": 397,
+    "name": "����tienne Capoue",
     "club": "Watford",
     "age": 29,
     "position": "DM",
@@ -7540,9 +8333,11 @@
     "age_cat": 4,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 398,
     "name": "Troy Deeney",
     "club": "Watford",
     "age": 29,
@@ -7559,9 +8354,11 @@
     "age_cat": 4,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 399,
     "name": "Heurelho Gomes",
     "club": "Watford",
     "age": 36,
@@ -7578,9 +8375,11 @@
     "age_cat": 6,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 400,
     "name": "Jose Holebas",
     "club": "Watford",
     "age": 33,
@@ -7597,9 +8396,11 @@
     "age_cat": 5,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 401,
     "name": "Miguel Britos",
     "club": "Watford",
     "age": 32,
@@ -7616,9 +8417,11 @@
     "age_cat": 5,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 402,
     "name": "Sebastian Prodl",
     "club": "Watford",
     "age": 30,
@@ -7635,9 +8438,11 @@
     "age_cat": 4,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 403,
     "name": "Nordin Amrabat",
     "club": "Watford",
     "age": 30,
@@ -7654,10 +8459,12 @@
     "age_cat": 4,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
-    "name": "YounÃ¨s Kaboul",
+    "id": 404,
+    "name": "Youn퀌�s Kaboul",
     "club": "Watford",
     "age": 31,
     "position": "CB",
@@ -7673,9 +8480,11 @@
     "age_cat": 4,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 405,
     "name": "Tom Cleverley",
     "club": "Watford",
     "age": 27,
@@ -7692,9 +8501,11 @@
     "age_cat": 3,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 406,
     "name": "Daryl Janmaat",
     "club": "Watford",
     "age": 27,
@@ -7711,9 +8522,11 @@
     "age_cat": 3,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 407,
     "name": "Valon Behrami",
     "club": "Watford",
     "age": 32,
@@ -7730,9 +8543,11 @@
     "age_cat": 5,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 408,
     "name": "Roberto Pereyra",
     "club": "Watford",
     "age": 26,
@@ -7749,9 +8564,11 @@
     "age_cat": 3,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 409,
     "name": "Stefano Okaka",
     "club": "Watford",
     "age": 27,
@@ -7768,9 +8585,11 @@
     "age_cat": 3,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 410,
     "name": "Abdoulaye Doucoure",
     "club": "Watford",
     "age": 24,
@@ -7787,9 +8606,11 @@
     "age_cat": 2,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 411,
     "name": "Kabasele",
     "club": "Watford",
     "age": 26,
@@ -7806,9 +8627,11 @@
     "age_cat": 3,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 412,
     "name": "Craig Cathcart",
     "club": "Watford",
     "age": 28,
@@ -7825,9 +8648,11 @@
     "age_cat": 4,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 413,
     "name": "Isaac Success",
     "club": "Watford",
     "age": 21,
@@ -7844,9 +8669,11 @@
     "age_cat": 1,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 414,
     "name": "Adrian Mariappa",
     "club": "Watford",
     "age": 30,
@@ -7863,9 +8690,11 @@
     "age_cat": 4,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 415,
     "name": "Nathaniel Chalobah",
     "club": "Watford",
     "age": 22,
@@ -7882,9 +8711,11 @@
     "age_cat": 2,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 416,
     "name": "Mauro Zarate",
     "club": "Watford",
     "age": 30,
@@ -7901,9 +8732,11 @@
     "age_cat": 4,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 417,
     "name": "Costel Pantilimon",
     "club": "Watford",
     "age": 30,
@@ -7920,9 +8753,11 @@
     "age_cat": 4,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 418,
     "name": "Kiko Femenia",
     "club": "Watford",
     "age": 26,
@@ -7939,9 +8774,11 @@
     "age_cat": 3,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 419,
     "name": "Steven Berghuis",
     "club": "Watford",
     "age": 25,
@@ -7958,9 +8795,11 @@
     "age_cat": 3,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 420,
     "name": "Will Hughes",
     "club": "Watford",
     "age": 22,
@@ -7977,9 +8816,11 @@
     "age_cat": 2,
     "club_id": 18,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 421,
     "name": "Gareth McAuley",
     "club": "West+Brom",
     "age": 37,
@@ -7996,9 +8837,11 @@
     "age_cat": 6,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 422,
     "name": "Salomon Rondon",
     "club": "West+Brom",
     "age": 27,
@@ -8015,9 +8858,11 @@
     "age_cat": 3,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 423,
     "name": "Matt Phillips",
     "club": "West+Brom",
     "age": 26,
@@ -8034,9 +8879,11 @@
     "age_cat": 3,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 424,
     "name": "Ben Foster",
     "club": "West+Brom",
     "age": 34,
@@ -8053,9 +8900,11 @@
     "age_cat": 6,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 425,
     "name": "Nacer Chadli",
     "club": "West+Brom",
     "age": 27,
@@ -8072,9 +8921,11 @@
     "age_cat": 3,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 426,
     "name": "Craig Dawson",
     "club": "West+Brom",
     "age": 27,
@@ -8091,9 +8942,11 @@
     "age_cat": 3,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 427,
     "name": "Chris Brunt",
     "club": "West+Brom",
     "age": 32,
@@ -8110,9 +8963,11 @@
     "age_cat": 5,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 428,
     "name": "James Morrison",
     "club": "West+Brom",
     "age": 31,
@@ -8129,9 +8984,11 @@
     "age_cat": 4,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 429,
     "name": "Jonny Evans",
     "club": "West+Brom",
     "age": 29,
@@ -8148,9 +9005,11 @@
     "age_cat": 4,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 430,
     "name": "Jake Livermore",
     "club": "West+Brom",
     "age": 27,
@@ -8167,9 +9026,11 @@
     "age_cat": 3,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 431,
     "name": "Allan Nyom",
     "club": "West+Brom",
     "age": 29,
@@ -8186,9 +9047,11 @@
     "age_cat": 4,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 432,
     "name": "Jay Rodriguez",
     "club": "West+Brom",
     "age": 27,
@@ -8205,9 +9068,11 @@
     "age_cat": 3,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 433,
     "name": "Claudio Yacob",
     "club": "West+Brom",
     "age": 30,
@@ -8224,9 +9089,11 @@
     "age_cat": 4,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 434,
     "name": "James McClean",
     "club": "West+Brom",
     "age": 28,
@@ -8243,9 +9110,11 @@
     "age_cat": 4,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 435,
     "name": "Hal Robson-Kanu",
     "club": "West+Brom",
     "age": 28,
@@ -8262,9 +9131,11 @@
     "age_cat": 4,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 436,
     "name": "Jonathan Leko",
     "club": "West+Brom",
     "age": 18,
@@ -8281,9 +9152,11 @@
     "age_cat": 1,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 437,
     "name": "Sam Field",
     "club": "West+Brom",
     "age": 19,
@@ -8300,9 +9173,11 @@
     "age_cat": 1,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 438,
     "name": "Boaz Myhill",
     "club": "West+Brom",
     "age": 34,
@@ -8319,9 +9194,11 @@
     "age_cat": 6,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 439,
     "name": "Ahmed Hegazy",
     "club": "West+Brom",
     "age": 26,
@@ -8338,9 +9215,11 @@
     "age_cat": 3,
     "club_id": 19,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 440,
     "name": "Robert Snodgrass",
     "club": "West+Ham",
     "age": 29,
@@ -8357,9 +9236,11 @@
     "age_cat": 4,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 441,
     "name": "Manuel Lanzini",
     "club": "West+Ham",
     "age": 24,
@@ -8376,9 +9257,11 @@
     "age_cat": 2,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 442,
     "name": "Michail Antonio",
     "club": "West+Ham",
     "age": 27,
@@ -8395,9 +9278,11 @@
     "age_cat": 3,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 443,
     "name": "Winston Reid",
     "club": "West+Ham",
     "age": 29,
@@ -8414,9 +9299,11 @@
     "age_cat": 4,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 444,
     "name": "Jose Fonte",
     "club": "West+Ham",
     "age": 33,
@@ -8433,9 +9320,11 @@
     "age_cat": 5,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 445,
     "name": "Andre Ayew",
     "club": "West+Ham",
     "age": 27,
@@ -8452,9 +9341,11 @@
     "age_cat": 3,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 446,
     "name": "Cheikhou Kouyate",
     "club": "West+Ham",
     "age": 27,
@@ -8471,9 +9362,11 @@
     "age_cat": 3,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 447,
     "name": "Mark Noble",
     "club": "West+Ham",
     "age": 30,
@@ -8490,9 +9383,11 @@
     "age_cat": 4,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 448,
     "name": "Darren Randolph",
     "club": "West+Ham",
     "age": 30,
@@ -8509,9 +9404,11 @@
     "age_cat": 4,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 449,
     "name": "James Collins",
     "club": "West+Ham",
     "age": 33,
@@ -8528,9 +9425,11 @@
     "age_cat": 5,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 450,
     "name": "Andy Carroll",
     "club": "West+Ham",
     "age": 28,
@@ -8547,9 +9446,11 @@
     "age_cat": 4,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 451,
     "name": "Adrian",
     "club": "West+Ham",
     "age": 30,
@@ -8566,9 +9467,11 @@
     "age_cat": 4,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 452,
     "name": "Aaron Cresswell",
     "club": "West+Ham",
     "age": 27,
@@ -8585,9 +9488,11 @@
     "age_cat": 3,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 453,
     "name": "Pedro Obiang",
     "club": "West+Ham",
     "age": 25,
@@ -8604,9 +9509,11 @@
     "age_cat": 3,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 454,
     "name": "Sofiane Feghouli",
     "club": "West+Ham",
     "age": 27,
@@ -8623,9 +9530,11 @@
     "age_cat": 3,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 455,
     "name": "Angelo Ogbonna",
     "club": "West+Ham",
     "age": 29,
@@ -8642,9 +9551,11 @@
     "age_cat": 4,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 456,
     "name": "Pablo Zabaleta",
     "club": "West+Ham",
     "age": 32,
@@ -8661,9 +9572,11 @@
     "age_cat": 5,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 457,
     "name": "Edimilson Fernandes",
     "club": "West+Ham",
     "age": 21,
@@ -8680,9 +9593,11 @@
     "age_cat": 1,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 458,
     "name": "Arthur Masuaku",
     "club": "West+Ham",
     "age": 23,
@@ -8699,9 +9614,11 @@
     "age_cat": 2,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 459,
     "name": "Sam Byram",
     "club": "West+Ham",
     "age": 23,
@@ -8718,9 +9635,11 @@
     "age_cat": 2,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   },
   {
+    "id": 460,
     "name": "Ashley Fletcher",
     "club": "West+Ham",
     "age": 21,
@@ -8737,9 +9656,11 @@
     "age_cat": 1,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 1
+    "new_signing": 1,
+    "user_id": 1
   },
   {
+    "id": 461,
     "name": "Diafra Sakho",
     "club": "West+Ham",
     "age": 27,
@@ -8756,6 +9677,7 @@
     "age_cat": 3,
     "club_id": 20,
     "big_club": 0,
-    "new_signing": 0
+    "new_signing": 0,
+    "user_id": 1
   }
 ]

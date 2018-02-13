@@ -2,101 +2,121 @@
   {
     "club": "Arsenal",
     "club_id": 1,
-    "big_club": 1
+    "big_club": 1,
+    "user_id": 1
   },
   {
     "club": "Bournemouth",
     "club_id": 2,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Brighton+and+Hove",
     "club_id": 3,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Burnley",
     "club_id": 4,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Chelsea",
     "club_id": 5,
-    "big_club": 1
+    "big_club": 1,
+    "user_id": 1
   },
   {
     "club": "Crystal+Palace",
     "club_id": 6,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Everton",
     "club_id": 7,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Huddersfield",
     "club_id": 8,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Leicester+City",
     "club_id": 9,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Liverpool",
     "club_id": 10,
-    "big_club": 1
+    "big_club": 1,
+    "user_id": 1
   },
   {
     "club": "Manchester+City",
     "club_id": 11,
-    "big_club": 1
+    "big_club": 1,
+    "user_id": 1
   },
   {
     "club": "Manchester+United",
     "club_id": 12,
-    "big_club": 1
+    "big_club": 1,
+    "user_id": 1
   },
   {
     "club": "Newcastle+United",
     "club_id": 13,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Southampton",
     "club_id": 14,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Stoke+City",
     "club_id": 15,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Swansea",
     "club_id": 16,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "Tottenham",
     "club_id": 17,
-    "big_club": 1
+    "big_club": 1,
+    "user_id": 1
   },
   {
     "club": "Watford",
     "club_id": 18,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "West+Brom",
     "club_id": 19,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   },
   {
     "club": "West+Ham",
     "club_id": 20,
-    "big_club": 0
+    "big_club": 0,
+    "user_id": 1
   }
 ]

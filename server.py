@@ -5,8 +5,13 @@ import json
 import requests
 import pycountry
 
-from flask import Flask, render_template, url_for, request, redirect, flash, \
-    jsonify
+from flask import (Flask,
+                   render_template,
+                   url_for,
+                   request,
+                   redirect,
+                   flash,
+                   jsonify)
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, load_only
@@ -41,12 +46,12 @@ def showLogin():
 
 @app.route('/disconnect')
 def disconnect():
-    print(login_session)
     if 'provider' in login_session:
         if login_session['provider'] == 'google':
             gdisconnect()
         if login_session['provider'] == 'facebook':
             fbdisconnect()
+
         del login_session['provider']
         del login_session['state']
         flash("You have successfully been logged out.")
@@ -150,8 +155,6 @@ def gconnect():
     print("done!")
     return output
 
-    # DISCONNECT - Revoke a current user's token and reset their login_session
-
 
 @app.route('/gdisconnect')
 def gdisconnect():
@@ -192,8 +195,7 @@ def fbconnect():
         response.headers['Content-Type'] = 'application/json'
         return response
     access_token = request.data
-    print
-    "access token received %s " % access_token
+    print("access token received %s " % access_token)
 
     app_id = json.loads(open('fb_client_secrets.json', 'r').read())[
         'web']['app_id']
@@ -290,7 +292,8 @@ def fbdisconnect():
         del login_session['username']
         del login_session['email']
         del login_session['picture']
-        response = make_response(json.dumps('Successfully disconnected.'), 200)
+        response = make_response(json.dumps('Successfully disconnected.'),
+                                 200)
         response.headers['Content-Type'] = 'application/json'
         return response
     else:
@@ -402,6 +405,10 @@ def deleteClub(club_id):
 
     deletedClub = session.query(Club).filter_by(id=club_id).one()
 
+    if deletedClub.user_id != login_session['user_id']:
+        flash("You are not authorized to delete this club.")
+        return redirect(url_for('showClubs'))
+
     if request.method == 'POST':
         session.delete(deletedClub)
         session.commit()
@@ -441,17 +448,20 @@ def newPlayer(club_id):
             request.form['position_category'])
         player_market_value = request.form['market_value']
         player_nationality = request.form['nationality']
-        newPlayer = Player(name=player_name, club=player_club, age=player_age,
+        newPlayer = Player(name=player_name, club=player_club,
+                           age=player_age,
                            position=player_position,
                            position_category=player_position_category,
                            market_value=player_market_value,
-                           nationality=player_nationality)
+                           nationality=player_nationality,
+                           user_id=login_session['user_id'])
         session.add(newPlayer)
         session.commit()
         flash("New Player Created")
         return redirect(url_for('showClub', club_id=club_id))
     else:
-        return render_template('newPlayer.html', club_id=club_id, clubs=clubs,
+        return render_template('newPlayer.html', club_id=club_id,
+                               clubs=clubs,
                                positions=positions,
                                position_categories=position_categories,
                                countries=countries)
@@ -494,6 +504,7 @@ def editPlayer(club_id, player_id):
                                    clubs=clubs, positions=positions,
                                    position_categories=position_categories,
                                    countries=countries)
+
     else:
         return render_template('editPlayer.html', club_id=club_id,
                                player_id=player_id, Player=editedPlayer,
@@ -509,6 +520,11 @@ def deletePlayer(club_id, player_id):
         return redirect('/login')
 
     deletedPlayer = session.query(Player).filter_by(id=player_id).one()
+
+    if deletedPlayer.user_id != login_session['user_id']:
+        flash("You are not authorized to delete this player.")
+        return redirect(url_for('showClub', club_id=club_id))
+
     if request.method == 'POST':
         session.delete(deletedPlayer)
         session.commit()

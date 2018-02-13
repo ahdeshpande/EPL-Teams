@@ -46,7 +46,7 @@
 					<!-- Club -->
 					<div class="form-group">
 						<label for="club_name">Club:</label>
-						<select class="form-control" id="club_name">
+						<select class="form-control" id="club_name" name="club_name">
 							<option style="display:none">
 							{% for club in clubs %}
 							<option>{{club.name}}</option>
@@ -57,13 +57,13 @@
 					<!-- Age -->
 					<div class="form-group">
 						<label for="age">Age:</label>
-						<input type = 'number' size = '8' name='price' id="age" class="form-control">
+						<input type = 'number' size = '8' name='age' id="age" class="form-control">
 					</div>
 
 					<!-- Position -->
 					<div class="form-group">
 						<label for="position">Positon:</label>
-						<select class="form-control" id="position">
+						<select class="form-control" id="position" name="position">
 							<option style="display:none">
 							{% for position in positions|sort(attribute='position') %}
 							<option>{{position[0]}}</option>
@@ -74,7 +74,7 @@
 					<!-- Position Category -->
 					<div class="form-group">
 						<label for="position_category">Positon Category:</label>
-						<select class="form-control" id="position_category">
+						<select class="form-control" id="position_category" name="position_category">
 							<option style="display:none">
 							{% for position_category in position_categories %}
 							<option>{{position_category}}</option>
@@ -85,13 +85,13 @@
 					<!-- Market Value -->
 					<div class="form-group">
 						<label for="market_value">Market Value:</label>
-						<input type = 'number' size = '8' name='price' id="market_value" class="form-control">
+						<input type = 'number' size = '8' name='market_value' id="market_value" class="form-control">
 					</div>
 
 					<!-- Nationality -->
 					<div class="form-group">
 						<label for="nationality">Nationality:</label>
-						<select class="form-control" id="nationality">
+						<select class="form-control" id="nationality" name="nationality">
 							<option style="display:none">
 							{% for country in countries %}
 							<option>{{country}}</option>
