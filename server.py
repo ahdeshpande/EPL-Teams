@@ -1,3 +1,4 @@
+import os
 import random
 import string
 import httplib2
@@ -12,10 +13,9 @@ from flask import (Flask,
                    redirect,
                    flash,
                    jsonify)
+from flask_sqlalchemy import SQLAlchemy
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker, load_only
-from models import Base, Player, Club, User
+from sqlalchemy.orm import load_only
 
 from flask import session as login_session
 
@@ -24,16 +24,16 @@ from oauth2client.client import FlowExchangeError
 from flask import make_response
 
 app = Flask(__name__)
+app.config.from_object(os.environ['APP_SETTINGS'])
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+db = SQLAlchemy(app)
+session = db.session
 
 CLIENT_ID = json.loads(
     open('client_secrets.json', 'r').read())['web']['client_id']
 APPLICATION_NAME = "EPL Teams"
 
-engine = create_engine('sqlite:///epldata.db')
-Base.metadata.bind = engine
-
-DBSession = sessionmaker(bind=engine)
-session = DBSession()
+from models import Player, Club, User
 
 
 @app.route('/login')
@@ -549,6 +549,4 @@ def clubsJSON():
 
 
 if __name__ == '__main__':
-    app.secret_key = "super_secret_key"
-    app.debug = True
-    app.run(host='0.0.0.0', port=5000)
+    app.run()
