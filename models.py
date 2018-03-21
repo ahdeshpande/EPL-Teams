@@ -65,6 +65,6 @@ class Player(Base):
         }
 
 
-engine = create_engine('sqlite:///epldata.db')
+engine = create_engine('postgresql://catalog@localhost/catalog_db')
 
 Base.metadata.create_all(engine)

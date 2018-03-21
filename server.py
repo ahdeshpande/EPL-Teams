@@ -29,7 +29,7 @@ CLIENT_ID = json.loads(
     open('client_secrets.json', 'r').read())['web']['client_id']
 APPLICATION_NAME = "EPL Teams"
 
-engine = create_engine('sqlite:///epldata.db')
+engine = create_engine('postgresql://catalog@localhost/catalog_db')
 Base.metadata.bind = engine
 
 DBSession = sessionmaker(bind=engine)

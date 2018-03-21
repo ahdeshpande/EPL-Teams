@@ -6,7 +6,7 @@ from sqlalchemy import create_engine
 from models import Base, Player, Club, User
 
 # Adding all the players to the database
-engine = create_engine('sqlite:///epldata.db')
+engine = create_engine('postgresql://catalog@localhost/catalog_db')
 Base.metadata.create_all(engine)
 Base.metadata.bind = engine
 DBSession = sessionmaker(bind=engine)
@@ -62,7 +62,7 @@ for player in players:
     try:
         persona = Player(id=player['id'],
                          club_id=player['club_id'],
-                         name=unicode(player['name']),
+                         name=str(player['name']),
                          age=player['age'],
                          position=player['position'],
                          position_category=player['position_cat'],
